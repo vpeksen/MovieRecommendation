@@ -1,0 +1,16 @@
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\ZirveProject\ZirveProject\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\ZirveProject\ZirveProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\ZirveProject\ZirveProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\ZirveProject\ZirveProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\ZirveProject\ZirveProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ZirveProject\ZirveProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\ZirveProject\ZirveProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\ZirveProject\ZirveProject\Business\obj\Debug\netcoreapp3.1\Business.pdb

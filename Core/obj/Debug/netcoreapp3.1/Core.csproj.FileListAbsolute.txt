@@ -1,0 +1,9 @@
+D:\ZirveProject\ZirveProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\ZirveProject\ZirveProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\ZirveProject\ZirveProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\ZirveProject\ZirveProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\ZirveProject\ZirveProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\ZirveProject\ZirveProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\ZirveProject\ZirveProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\ZirveProject\ZirveProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\ZirveProject\ZirveProject\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\ZirveProject\ZirveProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\ZirveProject\ZirveProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ZirveProject\ZirveProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ZirveProject\ZirveProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+D:\ZirveProject\ZirveProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+D:\ZirveProject\ZirveProject\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\ZirveProject\ZirveProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\ZirveProject\ZirveProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\ZirveProject\ZirveProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\ZirveProject\ZirveProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+D:\ZirveProject\ZirveProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\ZirveProject\ZirveProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

@@ -1,0 +1,14 @@
+D:\ZirveProject\ZirveProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+D:\ZirveProject\ZirveProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ZirveProject\ZirveProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+D:\ZirveProject\ZirveProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\ZirveProject\ZirveProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\ZirveProject\ZirveProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\ZirveProject\ZirveProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\ZirveProject\ZirveProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\ZirveProject\ZirveProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\ZirveProject\ZirveProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ZirveProject\ZirveProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\ZirveProject\ZirveProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\ZirveProject\ZirveProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\ZirveProject\ZirveProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
